@@ -6,7 +6,6 @@
 ## cacheSolve      -- a function to get the  inverse value for a matrix that
 ##                    was previously created using the makeCacheMatrix function
 
-## Write a short comment describing this function
 
 # The makeCacheMatrix function is used to generate a 'special' matrix 
 # that contains properties that persist the matrix and it's inverse value. 
